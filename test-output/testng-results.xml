@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="webAutomation" duration-ms="16104" started-at="2019-01-29T05:58:32Z" finished-at="2019-01-29T05:58:49Z">
+    <groups>
+    </groups>
+    <test name="NewuserScreen" duration-ms="16104" started-at="2019-01-29T05:58:32Z" finished-at="2019-01-29T05:58:49Z">
+      <class name="com.opus.Testcase.NewuserScreen">
+        <test-method status="PASS" signature="initializeConfigData()[pri:0, instance:com.opus.Testcase.NewuserScreen@3e6fa38a]" name="initializeConfigData" is-config="true" duration-ms="0" started-at="2019-01-29T05:58:32Z" finished-at="2019-01-29T05:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeConfigData -->
+        <test-method status="PASS" signature="verifyNewUserScreen()[pri:1, instance:com.opus.Testcase.NewuserScreen@3e6fa38a]" name="verifyNewUserScreen" duration-ms="10455" started-at="2019-01-29T05:58:32Z" finished-at="2019-01-29T05:58:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewUserScreen -->
+        <test-method status="PASS" signature="verifyUsersFilters()[pri:2, instance:com.opus.Testcase.NewuserScreen@3e6fa38a]" name="verifyUsersFilters" duration-ms="3211" started-at="2019-01-29T05:58:43Z" finished-at="2019-01-29T05:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUsersFilters -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.opus.Testcase.NewuserScreen@3e6fa38a]" name="closeBrowser" is-config="true" duration-ms="2418" started-at="2019-01-29T05:58:46Z" finished-at="2019-01-29T05:58:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.opus.Testcase.NewuserScreen -->
+    </test> <!-- NewuserScreen -->
+  </suite> <!-- webAutomation -->
+</testng-results>

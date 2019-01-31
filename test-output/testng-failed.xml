@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [webAutomation]">
+  <test thread-count="5" name="NewuserScreen(failed)">
+    <classes>
+      <class name="com.opus.Testcase.NewuserScreen">
+        <methods>
+          <include name="verifyUsersFilters"/>
+          <include name="closeBrowser"/>
+          <include name="initializeConfigData"/>
+        </methods>
+      </class> <!-- com.opus.Testcase.NewuserScreen -->
+    </classes>
+  </test> <!-- NewuserScreen(failed) -->
+</suite> <!-- Failed suite [webAutomation] -->

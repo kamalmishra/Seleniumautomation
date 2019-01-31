@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="webAutomation" duration-ms="44302" started-at="2019-01-31T02:50:06Z" finished-at="2019-01-31T02:50:50Z">
+    <groups>
+    </groups>
+    <test name="NewuserScreen" duration-ms="44302" started-at="2019-01-31T02:50:06Z" finished-at="2019-01-31T02:50:50Z">
+      <class name="com.opus.Testcase.newuserScreen">
+        <test-method status="PASS" signature="initializeConfigData()[pri:0, instance:com.opus.Testcase.newuserScreen@5ebec15]" name="initializeConfigData" is-config="true" duration-ms="16" started-at="2019-01-31T02:50:06Z" finished-at="2019-01-31T02:50:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeConfigData -->
+        <test-method status="PASS" signature="verifyNewUserScreen()[pri:1, instance:com.opus.Testcase.newuserScreen@5ebec15]" name="verifyNewUserScreen" duration-ms="30938" started-at="2019-01-31T02:50:06Z" finished-at="2019-01-31T02:50:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewUserScreen -->
+        <test-method status="PASS" signature="verifyUsersFilters()[pri:2, instance:com.opus.Testcase.newuserScreen@5ebec15]" name="verifyUsersFilters" duration-ms="13248" started-at="2019-01-31T02:50:37Z" finished-at="2019-01-31T02:50:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUsersFilters -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.opus.Testcase.newuserScreen@5ebec15]" name="closeBrowser" is-config="true" duration-ms="68" started-at="2019-01-31T02:50:50Z" finished-at="2019-01-31T02:50:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.opus.Testcase.newuserScreen -->
+    </test> <!-- NewuserScreen -->
+  </suite> <!-- webAutomation -->
+</testng-results>
